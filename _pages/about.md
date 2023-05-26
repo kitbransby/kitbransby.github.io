@@ -1,26 +1,32 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD researcher in Medical Image Analysis and Deep Learning, at Queen Mary University of London
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: pp_rotate.png
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a second year PhD at the school of [Electronic Engineering and Computer Science](http://eecs.qmul.ac.uk/) at Queen Mary University of London. Supervised by [Dr. Qianni Zhang](https://scholar.google.co.uk/citations?user=XR6C9BoAAAAJ&hl=en), [Prof. Greg Slabaugh](http://www.eecs.qmul.ac.uk/~gslabaugh/) and [Dr. Christos Bourantas](https://scholar.google.co.uk/citations?user=rQn8RpgAAAAJ&hl=en)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research focus is the segmentation of cardiac structures using polygon-based approaches. More broadly I am interested in:
+1. Graph neural networks
+2. 3D reconstruction from 2D Image
+3. Point- and dense-based contour representations
+4. Differentiable polygonization / rasterization
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+Outside of the lab, I run long distance, I (attempt to) play chess, and enjoy plants and all things hilly / green. 
+
+
+

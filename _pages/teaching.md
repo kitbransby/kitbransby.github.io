@@ -1,12 +1,24 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Teaching assistant and lab demonstrator for MSc modules at QMUL: 
 
-Organize your courses by years, topics, or universities, however you like!
+2023
+
+* Neural Networks and Deep Learning ECS659U/ECS659P/ECS7026P (Dr. Yorgos Tzimiropoulos)
+* Information Retrieval ECS736P (Dr. Qianni Zhang)
+
+2022
+
+* Information Retrieval ECS736P (Dr. Qianni Zhang)
+* Data Mining ECS766P (Dr Emmanouil Benetos)
+* Python Programming ECS7023P (Dr. Michael Tautschnig)
+
+
+

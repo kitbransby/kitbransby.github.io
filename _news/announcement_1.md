@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-01-19 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Accepted at [ISBI 2023](https://2023.biomedicalimaging.org/): 3D Coronary Vessel Reconstruction from Bi-Plane Angiography using Graph Convolutional Networks. [PDF](https://arxiv.org/pdf/2302.14795.pdf) 
