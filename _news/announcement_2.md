@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Accepted at [MICCAI 2023]((https://conferences.miccai.org/2023/en/)) (top 14% of submissions): 'Joint Dense-Point Representation for Contour-Aware Graph Segmentation'. [Paper PDF (Arxiv pre-print)](https://arxiv.org/pdf/2306.12155.pdf)
+Accepted at [MICCAI 2023]((https://conferences.miccai.org/2023/en/)) (top 14% of submissions): 'Joint Dense-Point Representation for Contour-Aware Graph Segmentation'. [Paper PDF (Arxiv pre-print)](https://arxiv.org/pdf/2306.12155.pdf) 
