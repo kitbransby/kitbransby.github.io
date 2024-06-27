@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD researcher in Medical Image Analysis and Deep Learning, at Queen Mary University of London
+subtitle: PhD researcher in Machine Learning and Computer Vision with a focus on Cardiac Imaging applications at Queen Mary University of London.
 
 profile:
   align: right
