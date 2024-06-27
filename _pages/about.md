@@ -21,9 +21,8 @@ I am a final year PhD researcher at the school of [Electronic Engineering and Co
 
 My current research focus is the segmentation of cardiac structures using mesh and polygon-based approaches. More broadly I am interested in:
 1. Graph neural networks
-2. Point- and dense-based contour representations
-3. Differentiable polygonization / rasterization
-4. Out-of-distribution learning
+2. Combining Point- and dense-based contour representations
+3. Shortcut learning and out-of-distribution generalizability. 
 
 
 Outside of the lab, I enjoy long-distance running, and all things hilly / green. 
