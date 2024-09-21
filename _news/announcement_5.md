@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our paper "POLYCORE: Polygon-based contour refinement for improved Intravascular Ultrasound Segmentation" has been accepted at the journal of Computers in Biology and Medicine. Paper and code available [here](https://www.sciencedirect.com/science/article/pii/S0010482524012472)
+Paper accepted at the journal of Computers in Biology and Medicine: "POLYCORE: Polygon-based contour refinement for improved Intravascular Ultrasound Segmentation". Paper and code available [here](https://www.sciencedirect.com/science/article/pii/S0010482524012472)
 
