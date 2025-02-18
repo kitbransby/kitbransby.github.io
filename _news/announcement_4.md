@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-My first author paper "Multi-Site Class-Incremental Learning with Weighted Experts in Echocardiography" has been accepted for an oral presentation at this years MICCAI workshop of Advances in Simplifying Medical UltraSound ([ASMUS](https://miccai-ultrasound.github.io/#/asmus24)). Pre-print PDF available [here](https://arxiv.org/abs/2407.21577)
+Best oral and paper finalist for "Multi-Site Class-Incremental Learning with Weighted Experts in Echocardiography" at this years MICCAI workshop of Advances in Simplifying Medical UltraSound ([ASMUS](https://miccai-ultrasound.github.io/#/asmus24)). Paper & Code available [here](https://link.springer.com/chapter/10.1007/978-3-031-73647-6_15)
 
