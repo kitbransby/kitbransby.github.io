@@ -6,7 +6,7 @@ subtitle: PhD researcher in Machine Learning and Computer Vision with a focus on
 
 profile:
   align: right
-  image: pp_rotate.png
+  image: linkedin_pp.png
   image_circular: true # crops the image to make it circular
   address: >
 
