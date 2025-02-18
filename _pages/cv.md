@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: Kit_Bransby_CV_2024.pdf
+permalink: Kit_Bransby_CV_2025.pdf
 title: CV
 nav: true
 nav_order: 4
