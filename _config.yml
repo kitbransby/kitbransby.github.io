@@ -8,7 +8,7 @@ middle_name: Mills
 last_name: Bransby
 email: k.m.bransby@qmul.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD researcher in Machine Learning and Computer Vision with a focus on Cardiac Imaging applications at Queen Mary University of London
+  Postdoc fellow at DTU Copenhagen, researching automated methods for coronary vessel analysis
 footer_text: >
   2025
 keywords: medical-image-analysis, deep-learning  # add your own keywords or leave empty

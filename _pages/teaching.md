@@ -7,12 +7,12 @@ nav: true
 nav_order: 5
 ---
 
-Teaching fellow @ QMUL (2023 -):
+Teaching fellow @ QMUL (2023 - 2025):
 
-I supervise the thesis projects of 8 BSc and 10 MSc students each academic year on a range of machine learning and data science topics such as uncertainty estimation, segmentation, registration and time-series forecasting. Tutorial and lab lead for Neural Networks and Deep Learning (spring 2025), Information Retrieval (spring 2024), and Machine Learning (fall 2024).  
+I supervised the thesis projects of 16 BSc and 22 MSc students on a range of machine learning and medical image analysis topics such as uncertainty estimation, segmentation, and registration. Tutorial and lab lead for Neural Networks and Deep Learning (spring 2025), Information Retrieval (spring 2024), and Machine Learning (fall 2024).  
 
 
-Teaching assistant and lab demonstrator for MSc modules at QMUL: 
+Teaching assistant and lab demonstrator for MSc modules at QMUL (2022 - 2023): 
 
 * Neural Networks and Deep Learning ECS7026P (spring 2023)
 * Information Retrieval ECS736P (spring 2022, spring 2023)
