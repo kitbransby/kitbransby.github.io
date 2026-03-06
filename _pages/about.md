@@ -6,7 +6,7 @@ subtitle: Postdoc fellow at DTU Copenhagen, researching automated methods for co
 
 profile:
   align: right
-  image: profie_picture.jpg
+  image: profile_picture.jpg
   image_circular: true # crops the image to make it circular
   address: >
 
